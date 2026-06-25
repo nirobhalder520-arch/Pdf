@@ -1,0 +1,145 @@
+Home
+Hero Banner
+Search Bar
+Featured Books
+Latest Books
+Trending Books
+Categories
+Popular Authors
+Footer
+2. Explore
+সকল বই
+Filter
+Category
+Author
+Language
+Free/Premium
+Sort (Newest, Popular, A–Z)
+3. Book Details
+প্রতিটি বইয়ের জন্য থাকবে:
+Cover Image
+Title
+Author
+Description
+Category
+Language
+Total Pages
+Publish Date
+Read Online
+Download (যদি অনুমতি থাকে)
+Add to Favorites
+Share
+Related Books
+4. Read Online
+Full-screen Reader
+Zoom In/Out
+Next/Previous Page
+Continue Reading
+Bookmark
+Dark Mode
+5. Categories
+সকল ক্যাটাগরি
+প্রতিটি ক্যাটাগরির আলাদা পেজ
+6. Search
+Instant Search
+Suggestions
+Recent Searches
+7. Login / Signup
+Email + Password
+Google Login (পরে যোগ করা যাবে)
+Forgot Password
+8. User Profile
+Profile Information
+Favorites
+Reading History
+Membership Status
+Settings
+9. Premium
+Premium Plans
+Payment Methods
+Premium Benefits
+10. Static Pages
+About
+Contact
+Privacy Policy
+Terms & Conditions
+DMCA / Copyright Policy
+🎨 UI Design
+Modern & Clean
+Dark/Light Mode
+Mobile First
+Responsive
+Fast Loading
+Smooth Animations
+🗄️ Supabase Integration
+User Website শুধু এগুলো ব্যবহার করবে:
+Authentication
+Books Database
+Categories
+Favorites
+Reading History
+Premium Status
+Storage (PDF ও Cover Image)
+কোনো Admin অপশন User Website-এ থাকবে না।
+🔒 Security
+Supabase Row Level Security (RLS)
+Protected Premium Content
+Secure Authentication
+Rate Limiting (যেখানে প্রয়োজন)
+📈 SEO
+SEO-friendly URLs
+Meta Title & Description
+Open Graph
+XML Sitemap
+Robots.txt
+Structured Data (Books)
+🚀 Launch-ready Features
+PWA (ইনস্টল করা যাবে)
+Fast Loading
+Lazy Loading Images
+Responsive সব ডিভাইসে
+Google Analytics Support
+Google Search ConsoleRocket
+Shopping
+Home
+Categories
+Search
+Book Details
+Add to Cart
+Buy Now
+Wishlist / Favorites
+💳 Checkout
+Order Summary
+Coupon Code
+Billing Information
+Payment Method নির্বাচন
+🇧🇩 বাংলাদেশি Payment
+bKash
+Nagad
+Rocket
+Orders
+User দেখতে পারবে:
+My Orders
+Purchased Books
+Download Purchased Books
+Invoice
+Payment Status
+📚 Book Types
+প্রতিটি বইয়ের জন্য:
+Free
+Premium (Subscription)
+One-time Purchase
+👤 User Dashboard
+Profile
+My Library
+My Orders
+Favorites
+Reading History
+Download History
+🔔 অতিরিক্ত ফিচার
+Book Reviews
+Ratings
+Related Books
+Recommended Books
+Recently Viewed
+Continue Reading
