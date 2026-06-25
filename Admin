@@ -1,0 +1,89 @@
+Dashboard
+Total Users
+Total Books
+Total Categories
+Total Orders
+Total Revenue
+Pending Orders
+Today's Sales
+Recent Activity
+Charts & Analytics
+📚 Books Management
+Add Book
+Edit Book
+Delete Book
+Upload Cover Image
+Upload PDF/ePub
+Set Free বা Paid
+Set Price
+Stock Status (যদি দরকার হয়)
+Featured Book
+Trending Book
+Best Seller
+📂 Categories
+Add Category
+Edit Category
+Delete Category
+Category Image
+Sort Order
+👤 Users
+View Users
+Search Users
+Edit Profile
+Suspend/Ban
+Make Premium
+Reset Password
+Purchase History
+🛒 Orders
+View Orders
+Order Details
+Payment Status
+Refund (ভবিষ্যতের জন্য)
+Download Invoice
+💳 Payments
+SSLCommerz Transactions
+bKash/Nagad/Rocket Status
+Success/Failed Payments
+Revenue Report
+⭐ Reviews
+Approve/Reject Reviews
+Delete Reviews
+📢 Banner Management
+Homepage Banner
+Promotional Banner
+Slider Images
+📝 Content
+About Page
+Contact Info
+Privacy Policy
+Terms & Conditions
+FAQ
+⚙️ Settings
+Website Name
+Logo
+Favicon
+Theme
+Social Links
+SMTP Email
+SEO Settings
+🔐 Security
+Admin Authentication
+Role-based Access
+Secure API
+Audit Logs
+📈 Reports
+Daily Sales
+Monthly Sales
+Top Selling Books
+Most Downloaded Books
+User Growth
+🔔 Notifications
+Send Notification to All Users
+Email Notifications
+Promotional Messages
+☁️ Supabase Integration
+Authentication
+Database
+Storage
+Row Level Security (RLS)
+Realtime Updates
