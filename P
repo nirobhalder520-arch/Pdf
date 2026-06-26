@@ -1,0 +1,1 @@
+"Create all required Supabase database tables, relationships, RLS policies, authentication, and storage integration for my ebook marketplace. Connect the frontend to Supabase so books, users, cart, orders, favorites, and downloads work automatically."
