@@ -1,0 +1,1 @@
+Stop using Lovable Cloud backend. Connect this app to my own Supabase project only. Create all tables, storage buckets, RLS policies, and auth in my connected Supabase project. Migrate all database operations from Lovable Cloud to Supabase.
